@@ -1,0 +1,21 @@
+#img{
+    width: 800px;
+    height: 400px;
+}
+body{
+    text-align: center;
+    background: radial-gradient(circle, rgb(116, 216, 116) 0%, rgb(247, 255, 141) 100%);
+}
+.image{
+    border-radius: 55px;
+}
+.div{
+    background-color: rgb(133, 255, 245);
+    border-radius: 45px;
+    width: 400px;
+    text-align: center;
+}
+#img2{
+    height: 300px;
+    width: 300px;
+}
